@@ -91,7 +91,7 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP, React, Next, Vue and other framwworks developer with <b>over a decade</b> of experience, specializing in frontend development with some backend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
+                        "en": {"text": "<p>I’m a PHP, React, Next, Vue and the other Framworks developer with <b>over a decade</b> of experience, specializing in frontend development with some backend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
                         "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo frontend y con algo de experiencia en backend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
                         "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement frontend avec un peu de travail en backend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"}                    }
                 }
@@ -329,15 +329,15 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "UX design",
+                            "title": "UX/UI design",
                             "info": "Studying user experience principles."
                         },
                         "es": {
-                            "title": "Diseño UX",
+                            "title": "Diseño UX/UI",
                             "info": "Estudiando los principios de la experiencia del usuario."
                         },
                         "fr": {
-                            "title": "Conception UX",
+                            "title": "Conception UX/UI",
                             "info": "Étudier les principes de l'expérience utilisateur."
                         }
                     }
