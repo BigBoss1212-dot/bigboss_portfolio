@@ -47,26 +47,9 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "pioneer.dev1212@gmail.com",
                     "links": [
-                        {"href": "tel:11234567890"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-phone",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Phone"},
-                        "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"}
-                    }
-                },
-
-                {
-                    "value": "Tadashi Inoi@email.com",
-                    "links": [
-                        {"href": "mailto:Tadashi Inoi@email.com"}
+                        {"href": "mailto:pioneer.dev1212@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -75,66 +58,6 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"}
-                    }
-                },
-
-                {
-                    "value": "@markInoi",
-                    "links": [
-                        {"href": "https://linkedin.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-linkedin",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Linkedin"}
-                    }
-                },
-
-                {
-                    "value": "Tadashi Inoi",
-                    "links": [
-                        {"href": "https://facebook.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-facebook",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markInoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-instagram",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@markInoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
                     }
                 }
             ]
